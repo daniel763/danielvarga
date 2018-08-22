@@ -1,0 +1,2 @@
+# danielvarga
+Miner
